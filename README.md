@@ -1,7 +1,7 @@
 ## Hi there 👋
-- · I'm stduent of FEFU
-- Link to my diploma thesis: https://library.dvfu.ru/elib/document/4487789/
-- · Trying my hand at webDev
+- I'm stduent of FEFU
+Link to my diploma thesis: https://library.dvfu.ru/elib/document/4487789/
+- Trying my hand at webDev
 <!--
 **BigDoKich/BIgDoKich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
